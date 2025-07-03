@@ -1,0 +1,71 @@
+@font-face {
+  font-family: tippa;
+  src: url(../fonts/tippa.woff);
+}
+body {
+  margin: 0px;
+  font-family: tippa, 'Times New Roman', Times, serif;
+  background-image: url(../images/castle.png), url(../images/castle2.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 400px;
+  background-position: bottom right, bottom left;
+}
+#contain {
+  margin: auto;
+  margin-top: 45px;
+  margin-bottom: 45px;
+  max-width: 1000px;
+}
+#container {
+  padding-top: 2px;
+  display: grid;
+  grid-template-columns: 20% 80%;
+  min-height: 700px;
+}
+nav {
+  margin-right: 2px;
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  a:hover {
+    font-weight: bold;
+  }
+  .current {
+    font-weight: bold;
+  }
+  ol {
+    list-style: none;
+    padding-left: 0px;
+    margin-top: 0px;
+  }
+  li {
+    padding: 5px;
+    padding-left: 0px;
+    border-bottom: 1.5px solid #000;
+  }
+}
+h1, h2 {
+  font-family: tippa;
+  font-size: 1em;
+  margin: 0px;
+  padding: 5px;
+  background-color: #000;
+  color: #fff;
+  text-transform: lowercase;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  padding-bottom: 4px;
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+}
+.posts  {
+  list-style-type:none;
+  padding-left: 1px;
+}
