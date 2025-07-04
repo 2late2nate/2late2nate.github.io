@@ -21,5 +21,5 @@ Because I don't believe in gatekeeping, here are some resources you can use for 
 
 ## Websites
 
-[![princss.online](assets/images/buttons/princss_button.png)](https://princss.online)
+[![princss.online](assets/images/buttons/princss.png)](https://princss.online)
 [![arandomsite.neocities.org](assets/images/buttons/arandomsite.gif)](https://arandomsite.neocities.org/)
