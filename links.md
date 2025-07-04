@@ -22,4 +22,4 @@ Because I don't believe in gatekeeping, here are some resources you can use for 
 ## Websites
 
 [![princss.online](assets/images/buttons/princss_button.png)](https://princss.online)
-[![capstasher.neocities.org/](assets/images/buttons/csc_88x31.png)](https://capstasher.neocities.org)
+[![arandomsite.neocities.org](assets/images/buttons/arandomsite.gif)](https://arandomsite.neocities.org/)
