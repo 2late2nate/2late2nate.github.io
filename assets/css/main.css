@@ -69,3 +69,21 @@ h2 {
   list-style-type:none;
   padding-left: 1px;
 }
+
+@media (max-width: 990px) {
+  body {
+    margin: 25px;
+    background-size: 200px;
+  }
+}
+@media (max-width: 800px) {
+  body {
+    background-size: 200px;
+  }
+  #contain {
+    margin-bottom: 120px;
+  }
+  #container {
+    display: block;
+  }
+}

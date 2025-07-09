@@ -16,4 +16,3 @@ For the time being, there's no proper way to contact me, as I prefer to keep to 
 <h2>Projects</h2>
 - **Work on Github Pages site**
   - Create portfolio page
-  - Make site responsive
