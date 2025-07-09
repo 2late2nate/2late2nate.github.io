@@ -18,8 +18,3 @@ Because I don't believe in gatekeeping, here are some resources you can use for 
 - [Dither Me This](https://doodad.dev/dither-me-this/)
 - [Jekyll](https://jekyllrb.com/docs/)
 - [GitHub Pages](https://pages.github.com/)
-
-## Websites
-
-[![princss.online](assets/images/buttons/princss.png)](https://princss.online)
-[![arandomsite.neocities.org](assets/images/buttons/arandomsite.gif)](https://arandomsite.neocities.org/)
