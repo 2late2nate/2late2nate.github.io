@@ -13,6 +13,7 @@ body {
   background-size: 400px;
   background-position: bottom right, bottom left;
 }
+/* Structure */
 #contain {
   margin: auto;
   max-width: 1000px;
@@ -46,6 +47,8 @@ nav {
     border-bottom: 1.5px dotted #000;
   }
 }
+
+/* Markdown */
 h1, h2 {
   font-family: tippa;
   font-size: 1em;
@@ -79,6 +82,7 @@ hr {
   padding-left: 1px;
 }
 
+/* Responsive */
 @media (max-width: 990px) {
   body {
     margin: 25px;
