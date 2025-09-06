@@ -4,25 +4,28 @@
 }
 body {
   margin: 45px;
-  font-family: tippa, 'Times New Roman', Times, serif;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0.1em;
+  line-height: 20px;
   background-image: url(../images/castle.png), url(../images/castle2.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 400px;
   background-position: bottom right, bottom left;
 }
+/* Structure */
 #contain {
   margin: auto;
   max-width: 1000px;
 }
 #container {
-  padding-top: 2px;
+  padding-top: 5px;
   display: grid;
   grid-template-columns: 20% 80%;
   min-height: 700px;
 }
 nav {
-  margin-right: 2px;
+  margin-right: 5px;
   a {
     color: #000;
     text-decoration: none;
@@ -41,9 +44,11 @@ nav {
   li {
     padding: 5px;
     padding-left: 0px;
-    border-bottom: 1.5px solid #000;
+    border-bottom: 1.5px dotted #000;
   }
 }
+
+/* Markdown */
 h1, h2 {
   font-family: tippa;
   font-size: 1em;
@@ -63,11 +68,21 @@ h2 {
     text-decoration: none;
   }
 }
+a {
+  color: #000;
+  text-decoration: 2px dotted underline;
+}
+hr {
+  border-top: dotted 2px #000;
+  border-bottom: none;
+}
+
 .posts  {
   list-style-type:none;
   padding-left: 1px;
 }
 
+/* Responsive */
 @media (max-width: 990px) {
   body {
     margin: 25px;
