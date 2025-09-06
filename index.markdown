@@ -7,10 +7,6 @@ Welcome to 2late2nate. I'll be hosting all of my **blogposts** and **professiona
 
 This website is a **Work-In-Progress**, so bear with me if some pages are unavailable.
 
-<h2>Blog</h2>
-
-Click on the title of a blogpost in order to view it.
-
 <ul class="posts">
 {% for post in site.posts %}
     <li>

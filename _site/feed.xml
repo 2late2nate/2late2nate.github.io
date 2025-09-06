@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-07-10T08:08:14+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">2late2nate</title><subtitle>Welcome to my website. I&apos;ll be hosting all of my blogposts and professional work here. Enjoy your stay.</subtitle><entry><title type="html">first post, first step</title><link href="http://localhost:4000/2025/07/02/first-post.html" rel="alternate" type="text/html" title="first post, first step" /><published>2025-07-02T00:00:00+08:00</published><updated>2025-07-02T00:00:00+08:00</updated><id>http://localhost:4000/2025/07/02/first-post</id><content type="html" xml:base="http://localhost:4000/2025/07/02/first-post.html"><![CDATA[<p><strong>Hello world!</strong> Or whatever it is that computers say.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-06T10:55:10+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">2late2nate</title><subtitle>Welcome to my website. I&apos;ll be hosting all of my blogposts and professional work here. Enjoy your stay.</subtitle><entry><title type="html">learning languages</title><link href="http://localhost:4000/2025/09/06/learning-languages.html" rel="alternate" type="text/html" title="learning languages" /><published>2025-09-06T00:00:00+08:00</published><updated>2025-09-06T00:00:00+08:00</updated><id>http://localhost:4000/2025/09/06/learning-languages</id><content type="html" xml:base="http://localhost:4000/2025/09/06/learning-languages.html"><![CDATA[<p>I’ve never been very connected to my culture— A fact I know all too well.</p>
+
+<p>Even as a Filipino currently residing in the Philippines, I barely know how to speak in what <em>should</em> be my native language. Instead, I usually resort to English for my day-to-day interactions both online and offline.</p>
+
+<p>It feels shameful in retrospect. I can’t help but feel like I’m disappointing those who came before me, or <em>worse</em>, accepting what the colonizers <strong>would’ve</strong> wanted (which is.. a really silly thought, but it gnaws at me nonetheless). I eat my ancestors’ food, live on their land, and I can’t even bother to accept and appreciate their culture? That’s not very <strong>fair</strong>, is it?</p>
+
+<p>Not to mention the lack of connection… How can I ever connect to other Filipinos if we can’t speak the same language?</p>
+
+<p>So, I plan on fixing that.</p>
+
+<p>I don’t have a very solid gameplan just yet, as I plan on winging it depending on my needs and circumstances, but <em>just</em> for today, I’ve picked up a textbook and completed the very first lesson.</p>
+
+<p>It didn’t make me feel any kind of strong emotion, nor did I feel notably proud of myself, but I did end up feeling fulfilled. Like I’m actually <em>doing</em> something with my life for once. I’m happy with that.</p>
+
+<p>Maybe I might even start learning languages as a hobby— not out of necessity or practical reasons, it’d be just for fun. I’m thinking of picking up Swedish once I’m comfortable enough with this process of learning. Mostly because of music reasons. &lt;—(Metalhead. [Derogatory])</p>
+
+<p>I’ll let you all know how it goes.</p>
+
+<hr />
+
+<p><strong>Projects</strong></p>
+<ul>
+  <li><strong>Work on Github Pages site</strong>
+    <ul>
+      <li>Create portfolio page</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />]]></content><author><name>Nate</name></author><summary type="html"><![CDATA[I’ve never been very connected to my culture— A fact I know all too well.]]></summary></entry><entry><title type="html">first post, first step</title><link href="http://localhost:4000/2025/07/02/first-post.html" rel="alternate" type="text/html" title="first post, first step" /><published>2025-07-02T00:00:00+08:00</published><updated>2025-07-02T00:00:00+08:00</updated><id>http://localhost:4000/2025/07/02/first-post</id><content type="html" xml:base="http://localhost:4000/2025/07/02/first-post.html"><![CDATA[<p><strong>Hello world!</strong> Or whatever it is that computers say.</p>
 
 <p>I am currently typing this post in VSCode, right after a few days of wrestling with my terminal and Jekyll itself to get it to finally work… And I’m not very experienced with using my terminal nor Jekyll just yet, so you can imagine how torturous the entire process was. I did manage to learn a lot of things though. I have no regrets when it comes to that.</p>
 
